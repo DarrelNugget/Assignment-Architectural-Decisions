@@ -5,7 +5,7 @@
   * Date: Oct 7, 2023
 
 ## Context 
-  * The app will display product images, which may vary in size and resolution. To ensure optimal performance, the team needs to decide on an image storage solution and implement image optimization techniques such as caching, lazy loading, and compression.
+  The app will display product images, which may vary in size and resolution. To ensure optimal performance, the team needs to decide on an image storage solution and implement image optimization techniques such as caching, lazy loading, and compression.
 
 **Options Considered**:
   * Store the images on a content delivery network
