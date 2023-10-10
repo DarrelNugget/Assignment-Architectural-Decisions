@@ -1,5 +1,7 @@
 # Architectural Decision Record by Darrel Nguyen and Gabreal Kalaf
 
+  * Scenario 1: Mobile Retail App
+
   * Decision 4: Infomation Management (Track User Behavior)
 
   * Date: Oct 7, 2023

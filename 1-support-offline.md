@@ -1,5 +1,7 @@
 # Architectural Decision Record by Darrel Nguyen and Gabreal Kalaf
 
+  * Scenario 1: Mobile Retail App
+
   * Decision 1: Offline Mode Support
 
   * Date: Oct 7, 2023
