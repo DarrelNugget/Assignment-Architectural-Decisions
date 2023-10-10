@@ -5,7 +5,6 @@
   * Date: Oct 7, 2023
 
 ## Context 
-
   * The retail company wants the app to support offline mode, allowing customers to browse products and view their order history even when they are not connected to the internet. The app should sync data with the server once an internet connection is available.
 
 **Options Considered**:
