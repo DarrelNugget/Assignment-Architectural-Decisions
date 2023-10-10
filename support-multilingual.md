@@ -5,7 +5,7 @@
   * Date: Oct 7, 2023
 
 ## Context 
-  * The retail company plans to expand its customer base internationally. The app should support multiple languages and adapt to various cultural preferences. The team needs to implement localization techniques and decide on the appropriate localization framework or libraries.
+  The retail company plans to expand its customer base internationally. The app should support multiple languages and adapt to various cultural preferences. The team needs to implement localization techniques and decide on the appropriate localization framework or libraries.
 
 **Options Considered**:
   * Develop a custom localization solution

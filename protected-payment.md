@@ -5,7 +5,7 @@
   * Date: Oct 7, 2023
 
 ## Context 
-  * The app needs to integrate with various payment gateways to facilitate secure and convenient transactions for customers. The team should select and integrate a suitable payment gateway or a combination of gateways based on security, ease of use, and compatibility with the app's target platforms.
+  The app needs to integrate with various payment gateways to facilitate secure and convenient transactions for customers. The team should select and integrate a suitable payment gateway or a combination of gateways based on security, ease of use, and compatibility with the app's target platforms.
 
 **Options Considered**:
   * Select a payment method that targets only a single payment method like PayPal

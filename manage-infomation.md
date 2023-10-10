@@ -5,7 +5,7 @@
   * Date: Oct 7, 2023
 
 ## Context 
-  * The retail company wants to track user behavior, such as product views, purchases, and loyalty program interactions. The team should select an analytics tool or service that provides detailed insights and metrics to help improve the app's performance and user experience.
+  The retail company wants to track user behavior, such as product views, purchases, and loyalty program interactions. The team should select an analytics tool or service that provides detailed insights and metrics to help improve the app's performance and user experience.
 
 **Options Considered**:
   * Adding a translation software

@@ -5,7 +5,7 @@
   * Date: Oct 7, 2023
 
 ## Context 
-  * The retail company wants to send push notifications to customers to notify them about order updates, new product arrivals, and exclusive offers. The app should integrate with a push notification service to handle the delivery of notifications.
+  The retail company wants to send push notifications to customers to notify them about order updates, new product arrivals, and exclusive offers. The app should integrate with a push notification service to handle the delivery of notifications.
 
 **Options Considered**:
   * Build specific push notifications tailored to the app
