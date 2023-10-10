@@ -22,7 +22,7 @@
   * And once an internet connection is secure it will sync with the app and make sure it is up to date
   * opposed to having a lite version, using local servers and other methods would prove to be more efficient and less time-consuming than creating a whole new version together
 
-**Consequences**: 
+**Consequences**:
   * Extra Development Measures: Adding an offline mode will require a local system which will have additional resources required
   * Extra App Size: The app size will increase because of the local system, which will affect download and installation times.
   * Maintenance: Updating the local system with the live server will require ongoing monitoring.
