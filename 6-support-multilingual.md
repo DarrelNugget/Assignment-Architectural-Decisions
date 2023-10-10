@@ -20,6 +20,7 @@
   * Allows to support multiple languages and supports localization
   * Some libraries/framework would support interpolation, pluralization
   * Reduce development time 
+  * Creating a in house translation software may take too much effort and time to incorporate different languages and grammar
 
 **Consequences**:
   * Would need to set the libraryframework

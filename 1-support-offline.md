@@ -23,14 +23,12 @@
   * opposed to having a lite version, using local servers and other methods would prove to be more efficient and less time consuming than creating a whole new version all together
 
 **Consequences**:
-  
   * Extra Development Measures: Adding an offline mode will require a local system which will have additional resources required
   * Extra App Size: The app size will increase because of the local system, which will affect download and installation times.
   * Maintenance: Updating the local system with the live server will require ongoing monitoring.
 
 
 **Follow-Up Actions**:
-
   * Develop a local caching system to retrieve and store data while the user is in offline mode.
   * Develop an efficient way to sync data between the local server and the live server.
   * Do testing with offline scenarios, to make sure it runs smoothly and to catch issues and bugs.

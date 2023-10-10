@@ -19,6 +19,7 @@
 **Rationale**:
   * Better customer ease of payments with it being more accessible to different people using different payment methods.
   * Better region reach, with some regions only allowing specific online transfers or having specific transfers, helps us gain a wider reach to more people.
+  * using a single payment method narrows our customer reach and satisfaction with having limited payment services
 
 **Consequences**:
   * Having a large amount of payment services for our retail app may be complex and time-consuming 

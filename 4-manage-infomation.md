@@ -21,6 +21,7 @@
   * Google is already well well-known and widely used platform, as it offers many features and integrations
   * It allows real-time tracking, provides customizable reports, and many more
   * It user friendly and it is really easier to set up and use effectively
+  * Using a third-party makes it so that the company does not have to put resources into developing the software, which allows in reduce of cost
 
 **Consequences**:
   * Third-party ongoing cost
