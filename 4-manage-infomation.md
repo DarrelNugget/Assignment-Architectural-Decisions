@@ -10,7 +10,7 @@
   The retail company wants to track user behavior, such as product views, purchases, and loyalty program interactions. The team should select an analytics tool or service that provides detailed insights and metrics to help improve the app's performance and user experience.
 
 **Options Considered**:
-  * Adding a translation software
+  * Adding a in house translation software
   * Using a third-party platform to translate, such as Google Analytics
 
 
