@@ -20,7 +20,7 @@
   * Using a third-party notification service is more time and cost-effective.
   * Third-party already have the infrastructure, expertise, and reliability to deliver messages
   * Third-party services can handle large-scale traffic, to ensure a seamless experiences
-  * building our own notification software would be too resource and time consuming
+  * Building our own notification software would be too resource and time consuming
 
 **Consequences**:
   * Dependency: On third-party software and depending on them to stay alive and not go down when needed, and not being able to do much when it occurs

@@ -20,7 +20,7 @@
   * As asked for with the company goal of achieving offline mode to help provide an easier shopping experience, with areas with little to no internet
   * With offline browsing active, it will help raise customer satisfaction and positivity
   * And once an internet connection is secure it will sync with the app and make sure it is up to date
-  * opposed to having a lite version, using local servers and other methods would prove to be more efficient and less time-consuming than creating a whole new version together
+  * Opposed to having a lite version, using local servers and other methods would prove to be more efficient and less time-consuming than creating a whole new version together
 
 **Consequences**:
   * Extra Development Measures: Adding an offline mode will require a local system which will have additional resources required
