@@ -10,7 +10,7 @@
   The retail company plans to expand its customer base internationally. The app should support multiple languages and adapt to various cultural preferences. The team needs to implement localization techniques and decide on the appropriate localization framework or libraries.
 
 **Options Considered**:
-  * Develop a custom localization solution
+  * Develop a custom localization and translation solution
   * Use a popular localization library/framework
 
 **Decision**:
@@ -18,13 +18,13 @@
 
 **Rationale**:
   * Allows to support multiple languages and supports localization
-  * Some libraries/framework would support interpolation, pluralization
+  * Some libraries/frameworks would support interpolation, pluralization
   * Reduce development time 
 
 **Consequences**:
-  * Would need to set the libraryframework
+  * Would need to set the library/framework
   * maintaining multiple language files may require ongoing resources
-  * Maintaining the user interface to ensure culturally sensitive in different languages
+  * Maintaining the user interface to ensure cultural sensitivity in different languages
 
 
 **Follow-Up Actions**:

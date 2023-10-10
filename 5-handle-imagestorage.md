@@ -25,7 +25,7 @@
 
 **Consequences**:
   * Initial setting up with the CDN company is required
-  * Ongoing cost
+  * Ongoing cost, cost is charged for service 
   * Required management on chase expiration to make sure all images are served
 
 

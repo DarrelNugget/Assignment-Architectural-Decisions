@@ -22,11 +22,11 @@
   * Third-party services can handle large-scale traffic, to ensure a seamless experiences
 
 **Consequences**:
-  * Dependency: On third-party software and depending on them to stay live and not go down when needed, and not being able to do much when it occurs
+  * Dependency: On third-party software and depending on them to stay alive and not go down when needed, and not being able to do much when it occurs
   * Subscription/money: With the third-party notifications will most likely have to through with a paid subscription to ensure we maintain their service
 
 
 **Follow-Up Actions**:
-  * find a reliable and well-known third-party notifications software
+  * find a reliable and well-known third-party notification software
   * Set up notification templates for how they should appear to customers as well as how they should appear for different events
   * Implement user preference and usability into them so it is as simple and efficient as possible with delivering constant messages and updates
